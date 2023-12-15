@@ -1,4 +1,4 @@
-# diary-webapp/育児日記
+# diary-web-app/育児日記
 
 
 ## サービス概要
